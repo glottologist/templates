@@ -1,4 +1,15 @@
 [
   "obsidian-spaced-repetition",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-advanced-slides",
+  "obsidian-focus-mode",
+  "obsidian-pandoc",
+  "obsidian-reading-time",
+  "readwise-official",
+  "obsidian-mind-map",
+  "calendar",
+  "convert-url-to-iframe",
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-plugin-prettier"
 ]

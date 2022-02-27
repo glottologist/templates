@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "../templates",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -21,7 +21,12 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    ""
+    "templates/zettel.md",
+    "templates/blogpost.md",
+    "templates/booknotes.md",
+    "templates/cornelnotes.md",
+    "templates/meetingnotes.md",
+    "templates/OKR.md"
   ],
   "startup_templates": [
     ""

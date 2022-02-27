@@ -22,9 +22,7 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "templates/",
-      "reference/",
-      "links/"
+      "templates/"
     ],
     "openRandomNote": false,
     "autoNextNote": false,

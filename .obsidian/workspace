@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62ef2310b62cfed0",
+        "id": "624101b456ac4e57",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/blogpost.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/blogpost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/blogpost.md"
+              }
             }
           },
           {
@@ -101,14 +109,45 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "902d537ebfcf470e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/blogpost.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80b4452956d52f50",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "62ef2310b62cfed0",
-  "lastOpenFiles": []
+  "active": "624101b456ac4e57",
+  "lastOpenFiles": [
+    "templates/blogpost.md",
+    "templates/booknotes.md",
+    "templates/cornelnotes.md",
+    "templates/meetingnotes.md",
+    "templates/OKR.md",
+    "templates/zettel.md",
+    "Test Note 2.md",
+    "Test Note.md",
+    "Does the extraction work.md",
+    "Test Template.md"
+  ]
 }

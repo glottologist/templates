@@ -1,4 +1,5 @@
 {
   "folder": "zettels",
-  "template": "../templates/zettel"
+  "template": "templates/zettel",
+  "format": "YYYYMMDDHHmmss"
 }

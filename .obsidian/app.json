@@ -16,5 +16,6 @@
   "attachmentFolderPath": "links/media",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": true
 }
