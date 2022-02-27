@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "fr-FR",
+    "it-IT",
+    "pt-PT"
+  ],
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "links/media",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current"
+}
