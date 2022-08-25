@@ -13,9 +13,12 @@
   "vimMode": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "links/media",
+  "attachmentFolderPath": "Artefacts",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newFileLocation": "current",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newLinkFormat": "relative",
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download"
 }

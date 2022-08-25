@@ -11,5 +11,8 @@
   "convert-url-to-iframe",
   "cm-typewriter-scroll-obsidian",
   "obsidian-extract-pdf-highlights",
-  "obsidian-plugin-prettier"
+  "obsidian-plugin-prettier",
+  "obsidian-style-settings",
+  "obsidian-admonition",
+  "flashcards-obsidian"
 ]
