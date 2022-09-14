@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/blogpost.md",
+            "file": "templates/interviewnotes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/blogpost.md",
+                "file": "templates/interviewnotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/blogpost.md"
+                "file": "templates/interviewnotes.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/blogpost.md",
+                "file": "templates/interviewnotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,10 +139,10 @@
   },
   "active": "624101b456ac4e57",
   "lastOpenFiles": [
+    "templates/meetingnotes.md",
     "templates/blogpost.md",
     "templates/booknotes.md",
     "templates/cornelnotes.md",
-    "templates/meetingnotes.md",
     "templates/OKR.md",
     "templates/zettel.md",
     "Test Note 2.md",
