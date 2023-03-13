@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/interviewnotes.md",
+                "file": "templates/zettel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/interviewnotes.md",
+                "file": "templates/zettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/interviewnotes.md"
+                "file": "templates/zettel.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/interviewnotes.md",
+                "file": "templates/zettel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +166,7 @@
   },
   "active": "624101b456ac4e57",
   "lastOpenFiles": [
+    "templates/interviewnotes.md",
     "templates/language.md",
     "templates/language-ws.md",
     "templates/language-st.md",
@@ -190,7 +191,6 @@
     "templates/zettel.md",
     "Test Note 2.md",
     "Test Note.md",
-    "Does the extraction work.md",
-    "Test Template.md"
+    "Does the extraction work.md"
   ]
 }

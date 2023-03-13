@@ -12,6 +12,7 @@ tags:
 ## Note
 
 
+## Sketch Notes
 
 ---
 ### Previous Notes
