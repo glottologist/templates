@@ -1,6 +1,6 @@
 #!/bin/sh
 
-declare -a folders=(articles notes knowledge presentations)
+declare -a folders=(notes knowledge languages)
 for i in "${folders[@]}"
 do
    :

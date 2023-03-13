@@ -1,5 +1,6 @@
 {
   "baseFontSize": 20,
   "theme": "moonstone",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "accentColor": ""
 }

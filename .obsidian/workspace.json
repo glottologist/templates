@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "26ab0fa28b4b275e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabd05b290206f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "624101b456ac4e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/interviewnotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eb6719e65694767",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f2954dad824a963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1226c15469ef1174",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "191407fe05ad7cd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77ccc73536c4aa87",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43c29dd531b64f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6f652183c170e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/interviewnotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28da94cc50b91788",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce5aa19c7b8e9d89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/interviewnotes.md"
+              }
+            }
+          },
+          {
+            "id": "c43e0a4d3b1dc904",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "902d537ebfcf470e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/interviewnotes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80b4452956d52f50",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "624101b456ac4e57",
+  "lastOpenFiles": [
+    "templates/language.md",
+    "templates/language-ws.md",
+    "templates/language-st.md",
+    "templates/language-ss.md",
+    "templates/language-se.md",
+    "templates/language-sc.md",
+    "templates/language-rl.md",
+    "templates/language-ir.md",
+    "templates/language-id.md",
+    "templates/language-gm.md",
+    "templates/language-ga.md",
+    "templates/language-fu.md",
+    "templates/language-es.md",
+    "templates/language-ct.md",
+    "templates/language-au.md",
+    "templates/language-al.md",
+    "templates/meetingnotes.md",
+    "templates/blogpost.md",
+    "templates/booknotes.md",
+    "templates/cornelnotes.md",
+    "templates/OKR.md",
+    "templates/zettel.md",
+    "Test Note 2.md",
+    "Test Note.md",
+    "Does the extraction work.md",
+    "Test Template.md"
+  ]
+}
